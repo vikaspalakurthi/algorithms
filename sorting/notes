@@ -1,0 +1,6 @@
+Bubble Sort -> compare next element, keep swapping and the max/min element pops up every iteration as a bubble 
+Insertion Sort -> insert the elemnt in the right position for every element as you loop/iterate. 
+Selection Sort -> select the min/max element every iteration 
+Divide and Conquer (recursion)
+    Merge Sort 
+    Quick Sort 
