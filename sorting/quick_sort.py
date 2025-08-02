@@ -28,3 +28,4 @@ def partition(arr, pivot, left, right):
 if __name__ == "__main__":
     list = [99, 44, 6, 2, 1]
     print(quickSort(list, 0, len(list)-1))
+    
